@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Namrath M</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
-- 🌱 I’m currently learning **Angular,Nextjs**
+- 🌱 I’m currently learning **Nextjs**
 
 - 💬 Ask me about **react,sql**
 
